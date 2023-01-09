@@ -10,6 +10,27 @@ Retina Images are images that are frequently needed in other polyclinics apart f
 ### Papilledema Detection Using CNN Structure:
 Papilledema is a serious and important finding especially for Neurology Outpatient Clinics. As a matter of fact, detection of papilledema in examination requires experience or Ophthalmology expertise in terms of eye findings. For this reason, a large number of patients are sent to the Eye Polyclinic for consultation every day for papilledema examination, and this creates a serious workload. In project scope; It has been determined as the primary and main goal to integrate a CNN infrastructure that will provide decision support to the physician about the findings of papilledema in the designed device.
 
+
+## Project Method:
+The following methods will be used within the scope of the project:
+### IR (Infrared) Imaging Method:
+Miosis develops in the eye where visible light is intense. The miosis reflex is a reflex stimulated only by visible light and is insensitive to IR or UV light. IR Imaging Methods is a very common imaging method, especially in heat mapping technologies, and IR light is used to obtain images.
+ ### IoT (Internet of Things):
+IoT technology is a technology that is used especially in automation systems and enables the interaction of electronic devices with the internet. It will be used to communicate the device designed in the project with the hospital database and to send the captured images to the consultation instantly. It is considered to use RaspBerry Pi circuit boards for IoT integration.
+### Data Engineering:
+Data Engineering is the process of extracting meaningful data and analyzes by analyzing and classifying already obtained, irregular big data. It will be used in the project for sorting and processing the Retina Images taken in the past in appropriate groups. In this context, the numPy library, which is an open source, n-dimensional matrix processing library, the pandas library that facilitates data preprocessing, and the matplotlib libraries that provide detailed functions for data visualization were preferred for the project.
+### Image Processing:
+Image Processing methods are methods used to manipulate digital images or to produce meaningful analysis. In the project, the images obtained for the past will be used to break the linearity of the datasets and to process the snapshots obtained during device use according to the CNN outputs. LGPL v3.0 licensed openCV library is planned to be used for image processing.
+### CNN (Convolutional Neural Network – Convolutional Neural Networks):
+CNN structure is a Deep Learning methodology developed to enable the use of Artificial Neural Networks structure discovered as a result of the development of Machine Learning functions and redesign for Deep Learning. In the project, it will be used to teach Papil Edema examination to the computer. In this context, it is planned to use the Keras library, which provides auxiliary functions for the use of the CNN structure.
+### OCT:
+It is one of the devices used to obtain detailed and more precise findings about the eye examined in OCT Eye Polyclinics. It will be used to correlate the Retina Images to prove the accuracy of the data obtained in the project.
+### Fundus Camera:
+It is used to obtain retinal image in fundus examination. Fundus Camera devices specially developed for this purpose are used in Eye Polyclinics. In the project, Retina Images taken with the Fundus Camera obtained in the past will be used as a dataset.
+
+## Project Method
+1) Data Collection:
+Data will be obtained from Necmettin Erbakan University Meram Medical Faculty Hospital. For this, first of all, the necessary Ethics Committee approvals will be obtained from Meram Medical Faculty and in order to consider patient privacy, no patient's personal data will be shared within the scope of the project, only necessary data will be collected. Required data:
 a) Retina Images Obtained by Fundus Camera:
 
 Headache is the most common clinical symptom worldwide. The lifetime prevalence of headache was calculated as 96%. This clinical complaint, which almost everyone experiences at least once in their lifetime, constitutes the majority of patients who apply to neurology outpatient clinics. There are primary and secondary causes of headache. Although headaches due to primary causes reduce the quality of life, they are not life-threatening. Clinical conditions such as brain tumors that are secondary causes of headache and life-threatening, and increased intracranial hypertension that can cause permanent vision loss can be understood with a simple, inexpensive and non-invasive method such as fundus evaluation. Although it is a cheap and easily accessible examination, fundus evaluation should be performed by experienced physicians. For this reason, it is very common to consult eye diseases in order to better evaluate patients with headache complaints. These patients, who were consulted with an ophthalmologist, both increase the workload and increase the patient density due to the fact that they are examined in an extra department. In addition, mydriatic (pupillary enlargement) group drugs are given to patients for examination in Ophthalmology outpatient clinics, and this group of drugs causes a loss of time since the effect time is about half an hour.
