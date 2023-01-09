@@ -30,12 +30,14 @@ It is used to obtain retinal image in fundus examination. Fundus Camera devices 
 1) Data Collection:
 Data will be obtained from Necmettin Erbakan University Meram Medical Faculty Hospital. For this, first of all, the necessary Ethics Committee approvals will be obtained from Meram Medical Faculty and in order to consider patient privacy, no patient's personal data will be shared within the scope of the project, only necessary data will be collected. Required data:
  
-1.1) Retina Images Obtained by Fundus Camera:
+a) Retina Images Obtained by Fundus Camera:
 Retinal imaging is routinely provided with a fundus camera in the clinic. Images taken with a fundus camera are kept in the hospital database in digital environment. Normal and papilledema images in the database will be selected by the ophthalmologist and included in the project (Figure-1). Since the device planned to be turned into a product in the project will also receive fundus camera-like images, it was deemed appropriate to process retinal images obtained with a fundus camera within the scope of the project.
 
 
 ![pap](https://user-images.githubusercontent.com/29986610/211399043-4ecbb2a4-d498-4d48-8b05-bfc05ada0859.png)
 
-
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/29986610/211399043-4ecbb2a4-d498-4d48-8b05-bfc05ada0859.png)">
+</p>
  
 Figure-1: Eye view of the patient with “A” normal, “B” papilledema from the images taken with the fundus camera
