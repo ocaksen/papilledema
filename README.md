@@ -1,7 +1,7 @@
 # DETECTION PAPILLEDEMA ON FUNDUS CAMERA WITH CNN
 
 
-# # PROJECT OBJECTIVES
+## PROJECT OBJECTIVES
 The project objectives are grouped under the following 3 main headings:
 Obtaining Retina Image Without Using Mydriatics:
 The fundus camera device used to obtain Retina Image in Eye Clinics uses visible light to obtain retinal image. The use of visible light causes miosis (shrinking of the pupil) in the eye while the device is shooting, and mydriatics are used to prevent this. Mydriatics are drugs that act by stopping mydriasis in patients for a short time, and it is necessary to wait for half an hour after administration for them to take effect. Within the scope of the project, it is aimed to obtain Retina Image without the use of mydriatics in order to prevent this process and facilitate the treatment. It is planned to use infrared lights and infrared camera technology that do not trigger miosis in the eye.
