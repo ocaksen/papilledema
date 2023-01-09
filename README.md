@@ -3,11 +3,11 @@
 
 ## PROJECT OBJECTIVES
 The project objectives are grouped under the following 3 main headings:
-Obtaining Retina Image Without Using Mydriatics:
+### Obtaining Retina Image Without Using Mydriatics:
 The fundus camera device used to obtain Retina Image in Eye Clinics uses visible light to obtain retinal image. The use of visible light causes miosis (shrinking of the pupil) in the eye while the device is shooting, and mydriatics are used to prevent this. Mydriatics are drugs that act by stopping mydriasis in patients for a short time, and it is necessary to wait for half an hour after administration for them to take effect. Within the scope of the project, it is aimed to obtain Retina Image without the use of mydriatics in order to prevent this process and facilitate the treatment. It is planned to use infrared lights and infrared camera technology that do not trigger miosis in the eye.
-Designing a Retina Image Capture Device that Does Not Require Expertise to Use:
+### Designing a Retina Image Capture Device that Does Not Require Expertise to Use:
 Retina Images are images that are frequently needed in other polyclinics apart from Eye Polyclinics. Fundus camera devices used to obtain retinal images are expensive and portable devices that require technical expertise. This situation makes it impossible to obtain Retina Image in outpatient clinics other than Eye Polyclinics and unnecessarily increases the demand for consultation to the Eye Polyclinics of other polyclinics, thus increasing the density of the Eye Polyclinics unnecessarily. Within the scope of the project, it is aimed to develop a portable Retina Image Capture Device that is easy to use in other outpatient clinics, does not require technical expertise and is portable.
-Papilledema Detection Using CNN Structure:
+### Papilledema Detection Using CNN Structure:
 Papilledema is a serious and important finding especially for Neurology Outpatient Clinics. As a matter of fact, detection of papilledema in examination requires experience or Ophthalmology expertise in terms of eye findings. For this reason, a large number of patients are sent to the Eye Polyclinic for consultation every day for papilledema examination, and this creates a serious workload. In project scope; It has been determined as the primary and main goal to integrate a CNN infrastructure that will provide decision support to the physician about the findings of papilledema in the designed device.
 
 a) Retina Images Obtained by Fundus Camera:
