@@ -34,8 +34,6 @@ a) Retina Images Obtained by Fundus Camera:
 Retinal imaging is routinely provided with a fundus camera in the clinic. Images taken with a fundus camera are kept in the hospital database in digital environment. Normal and papilledema images in the database will be selected by the ophthalmologist and included in the project (Figure-1). Since the device planned to be turned into a product in the project will also receive fundus camera-like images, it was deemed appropriate to process retinal images obtained with a fundus camera within the scope of the project.
 
 
-![pap](https://user-images.githubusercontent.com/29986610/211399043-4ecbb2a4-d498-4d48-8b05-bfc05ada0859.png)
-
 <p align="center">
   <img width="560" height="300" src="https://user-images.githubusercontent.com/29986610/211399043-4ecbb2a4-d498-4d48-8b05-bfc05ada0859.png">
 </p>
