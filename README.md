@@ -15,8 +15,6 @@ Papilledema is a serious and important finding especially for Neurology Outpatie
 The following methods will be used within the scope of the project:
 ### IR (Infrared) Imaging Method:
 Miosis develops in the eye where visible light is intense. The miosis reflex is a reflex stimulated only by visible light and is insensitive to IR or UV light. IR Imaging Methods is a very common imaging method, especially in heat mapping technologies, and IR light is used to obtain images.
- ### IoT (Internet of Things):
-IoT technology is a technology that is used especially in automation systems and enables the interaction of electronic devices with the internet. It will be used to communicate the device designed in the project with the hospital database and to send the captured images to the consultation instantly. It is considered to use RaspBerry Pi circuit boards for IoT integration.
 ### Data Engineering:
 Data Engineering is the process of extracting meaningful data and analyzes by analyzing and classifying already obtained, irregular big data. It will be used in the project for sorting and processing the Retina Images taken in the past in appropriate groups. In this context, the numPy library, which is an open source, n-dimensional matrix processing library, the pandas library that facilitates data preprocessing, and the matplotlib libraries that provide detailed functions for data visualization were preferred for the project.
 ### Image Processing:
